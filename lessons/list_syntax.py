@@ -58,3 +58,5 @@ def create(item1: str, item2: str) -> list[str]:
     print(f"{item1}, {item2}")
 
 create("cookies", "milk")
+
+print(grocery_list[10])
